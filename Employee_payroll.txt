@@ -1,0 +1,16 @@
+mysql> create database payroll_service;
+Query OK, 1 row affected (10.90 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| employeedb         |
+| information_schema |
+| mysql              |
+| payroll_service    |
+| performance_schema |
+| sys                |
+| vishaldb           |
++--------------------+
+7 rows in set (0.00 sec)
